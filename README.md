@@ -6,8 +6,8 @@ TP-1 Gestion d'une bibliotheque
 
 ### Views Livres  
 
-[Page Liste des Livres (index.blade)](images/ListeLivres.png)
-[Page Liste des Livres suite (index.blade)](images/ListeLivres2.png)
+![Page Liste des Livres (index.blade)](images/ListeLivres.png)
+![Page Liste des Livres suite (index.blade)](images/ListeLivres2.png)
 [Page Ajout de livre (create)](images/AjoutLivre.png)
 [Page Modification  de livre (edit)](images/ModifierLivre.png)
 [Page Details de livre (show)](images/DetailsLivre.png)
