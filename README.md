@@ -1,11 +1,11 @@
 TP-1 Gestion d'une bibliotheque 
 
 ### Acceuil 
-[Page acceuil](images/Acceuil.png)
+![Page acceuil](images/Acceuil.png)
 
 
 ### Views Livres  
-
+test
 ![Page Liste des Livres (index.blade)](images/ListeLivres.png)
 ![Page Liste des Livres suite (index.blade)](images/ListeLivres2.png)
 ![Page Ajout de livre (create)](images/AjoutLivre.png)
