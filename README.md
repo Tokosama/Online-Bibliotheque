@@ -4,6 +4,8 @@ TP-1 Gestion d'une bibliotheque
 ![Page acceuil](images/Acceuil.png)
 
 
+
+
 ### Views Livres  
 
 Page Liste des Livres (index.blade)
@@ -21,8 +23,11 @@ Page Modification  de livre (edit)
 Page Details de livre (show)
 ![Page Details de livre (show)](images/DetailsLivre.png)
 
-Page Suppression de livre (on remarque que le livre "Hosties Noires" a été supprimé)
+Page Suppression de livre (on remarque si on s'attarde sur la page Liste de livre suite que le livre "Hosties Noires" a été supprimé)
 ![Page Suppression de livre (on remarque que le livre "Hosties Noires" a été supprimé)](images/SuppresionLivre.png)
+
+
+
 
 ### Views Auteurs
 
